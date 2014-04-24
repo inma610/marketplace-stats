@@ -310,15 +310,15 @@ msgstr "Colombia"
 
 #: /media/js/settings.js:34
 msgid "Costa Rica"
-msgstr ""
+msgstr "Costa Rica"
 
 #: /media/js/settings.js:35
 msgid "Ecuador"
-msgstr ""
+msgstr "Ecuador"
 
 #: /media/js/settings.js:36
 msgid "El Salvador"
-msgstr ""
+msgstr "El Salvador"
 
 #: /media/js/settings.js:37
 msgid "Germany"
@@ -330,7 +330,7 @@ msgstr "Grecia"
 
 #: /media/js/settings.js:39
 msgid "Guatemala"
-msgstr ""
+msgstr "Guatemala"
 
 #: /media/js/settings.js:40
 msgid "Hungary"
@@ -350,11 +350,11 @@ msgstr "Montenegro"
 
 #: /media/js/settings.js:44
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: /media/js/settings.js:45
 msgid "Panama"
-msgstr ""
+msgstr "Panamá"
 
 #: /media/js/settings.js:46
 msgid "Peru"
@@ -390,7 +390,7 @@ msgstr "Venezuela"
 
 #: /media/js/settings.js:54
 msgid "No region in search"
-msgstr ""
+msgstr "Ningún país en la búsqueda"
 
 #. {n} is the number of characters left.
 #: /media/js/utils.js:28
